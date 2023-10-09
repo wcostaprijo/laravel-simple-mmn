@@ -43,10 +43,10 @@ php artisan migrate --seed
 O terminal irá pedir o número de usuários fake a ser cadastrado, por padrão ele preenche com 6
 
 Após a instalação você terá o usuário admin:
-    - admin@teste.com
-    - 123456789
+- admin@teste.com
+- 123456789
 
 Também terá os usuários cadastrados:
-    - usuario_{numero-do-usuario-que-quiser-acessar}@teste.com
-    - EX: usuario_2@teste.com
-    - 123456789
+- usuario_{numero-do-usuario-que-quiser-acessar}@teste.com
+- EX: usuario_2@teste.com
+- 123456789
