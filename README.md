@@ -1,6 +1,6 @@
 ## Sobre o projeto
 
-Sistema simples de MMN Bonifíca.
+Sistema simples de MMN.
 
 Tecnologia utilizada:
  - [x] PHP 8.1
