@@ -1,4 +1,4 @@
-## Sobre o projeto
+## Sobre o projeto :D
 
 Sistema simples de MMN.
 
